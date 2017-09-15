@@ -1,0 +1,43 @@
+PODS:
+  - AmrVoiceConverter (0.1.0)
+  - EZAudio (1.1.5):
+    - EZAudio/Full (= 1.1.5)
+  - EZAudio/Core (1.1.5)
+  - EZAudio/Full (1.1.5):
+    - EZAudio/Core
+    - TPCircularBuffer (= 1.1)
+  - FLKBaseClasses (0.1.88):
+    - PBKits
+    - PBMediator
+    - SVProgressHUD
+    - WZLBadge
+    - YYText
+  - Masonry (1.0.2)
+  - PBKits (0.5.144)
+  - PBMediator (0.1.4)
+  - SVProgressHUD (2.1.2)
+  - TPCircularBuffer (1.1)
+  - WZLBadge (1.2.5)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - AmrVoiceConverter (~> 0.1.0)
+  - EZAudio (~> 1.1.5)
+  - FLKBaseClasses (~> 0.1.88)
+  - Masonry (~> 1.0.2)
+
+SPEC CHECKSUMS:
+  AmrVoiceConverter: e1584b0c14e29212260af308125696e8024db758
+  EZAudio: 3b1cb4b6d7ebca68f0c2478576d75940aad4aa99
+  FLKBaseClasses: 0ee2e66e621a7aef22b67f3d9e6a6f933ff008cf
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  PBKits: 0ce6c383575f6d665d13369687c841f6518211e9
+  PBMediator: 328c11e2e4e3994025534172ebeed4ca980d14ae
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  TPCircularBuffer: 4960a919e667280f7f38963d771f45871b64fe62
+  WZLBadge: 16c08aa0a645e2591690f21cbcb410a3d878c7ac
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: bf809601d31b4aa8e0ab8c806c84643250c3db7b
+
+COCOAPODS: 1.1.1
